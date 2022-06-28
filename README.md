@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Portfolio-7C9F7D?style=flat-square"/></a>&nbsp  
   </a>
     <a>
-    <img src="https://img.shields.io/badge/Dev-blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp  
+    <img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp  
   </a>
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7C9F7D&height=200&section=footer)
