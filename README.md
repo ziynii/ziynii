@@ -36,7 +36,7 @@
 <br >
 <br >
 
-<div align="center">
+<div>
   
   [![Jiyeon's github stats](https://github-readme-stats.vercel.app/api?username=ziynii&show_icons=true&theme=dracula)](https://github.com/ziynii)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziynii&layout=compact)](https://github.com/ziynii/github-readme-stats)
