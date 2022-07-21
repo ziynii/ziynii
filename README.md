@@ -27,8 +27,11 @@
   <a href="https://github.com/ziynii/project__f-shop">:gem: <strong>F-Shop</strong>: Fake Store API로 제작한 쇼핑몰 website</a><br/>
   <a href="https://github.com/ziynii/project__wetube">:gem: <strong>Wetube</strong>: Youtube clone webstie</a><br/>
   <a href="https://github.com/ziynii/project__im1l-renewal">:gem: <strong>I'm 1L</strong>: I'm 1L redesign website</a><br/>
+  <a href="https://github.com/ziynii/project__seoul-library-renewal-v2" color="black">:gem: <strong>PETPLE</strong>: 서울도서관 redesign website</a><br/>
   <a href="https://github.com/ziynii/project__pawin-hand__renewal">:gem: <strong>Paw in hand</strong>: 포인핸드 redesign website</a><br/>
   <a href="https://github.com/ziynii/project__vans-renewal">:gem: <strong>Vans</strong>: 반스 redesign website</a>
+
+  
   
  </div>
 
