@@ -29,7 +29,7 @@
   <a href="https://github.com/ziynii/project__im1l-renewal">:gem: <strong>YOUR1L</strong>: I'm 1L redesign website</a><br/>
   <a href="https://github.com/ziynii/project__seoul-library-renewal-v2" color="black">:gem: <strong>우리도서관</strong>: 서울도서관 redesign website</a><br/>
   <a href="https://github.com/ziynii/project__pawin-hand__renewal">:gem: <strong>러브인핸드</strong>: 포인핸드 redesign website</a><br/>
-  <a href="https://github.com/ziynii/project__vans-renewal">:gem: <strong>Hans</strong>: 반스 redesign website</a>
+  <a href="https://github.com/ziynii/project__vans-renewal">:gem: <strong>Vans</strong>: 반스 redesign website</a>
 
   
   
